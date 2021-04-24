@@ -1,5 +1,5 @@
 # FilenameCleaner
-Command line python script that applies styling and formatting to files, supports pattern matching
+Python command-line utility that applies styling and formatting to filenames, supports pattern matching
 
 Useful for people like me who can't make up their minds on naming conventions for files
 
